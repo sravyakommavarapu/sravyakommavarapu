@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sravyakommavarapu
-- 👀 I’m interested in ...
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Object oriented development
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me on kommavarapusravya@gmail.com
 
 <!---
